@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  helm-chart-test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-02-08T19:39:51.6330374+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 76488312cfa9cccd81de68391dda8eb8bcf9fce8816667174407d16f1a1c4fea
+    name: helm-chart-test
+    type: application
+    urls:
+    - https://github.com/ETI-Software-Solutions/eti-sales/helm-chart-test-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-02-08T19:39:51.6320713+02:00"
